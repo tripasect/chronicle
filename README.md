@@ -10,4 +10,4 @@ Chronicle is a project that includes a Telegram channel and an HTML widget.
 ### Telegram HTML Widget
 [Telegram HTML Widget](https://tripasect.github.io/chronicle) (Random post every refresh)
 
-<img src="https://github.com/tripasect/chronicle/assets/59469654/234fd665-4f9e-4f92-bf93-b604037eadc7" alt="Telegram HTML Widget Screenshot" width="500">
+<img src="https://github.com/tripasect/chronicle/assets/59469654/5d3028a8-1d17-489c-9840-fb9edd0d9a33" alt="Telegram HTML Widget Screenshot" width="300">
